@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+sign_landmarks.csv
+sign_model.joblib
+sign_labels.txt
+.streamlit/
